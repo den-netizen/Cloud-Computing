@@ -53,9 +53,6 @@ Sprint 3 Grafana and Autoscaling
 
 ## Overview
 
-![Image of Overview](/assets/CCOverview.png)
-
-Image Source:
 https://www.exoscale.com/syslog/autoscaling-with-grafana-and-prometheus/
 
 Similar:
